@@ -19,6 +19,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e516a0b0-932c-4415-8dfe-7bf450a14353"
+      }
+    },
+    "owner": "tinoftu",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e516a0b0-932c-4415-8dfe-7bf450a14353"
     }
   }
 }
